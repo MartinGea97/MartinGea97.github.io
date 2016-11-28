@@ -1,12 +1,13 @@
 body {
 	font-family: Arial;
 	background: #ccc;
+	background-image: url("Fondo.png");
 	width: 80%;
 	margin: 20px auto;
 }
 
 header {
-	background-color:  #303030;
+	background-color:	#000000;
 	color: #fff;
 	padding: 20px;
 }
@@ -24,7 +25,7 @@ header ul li a{
 }
 
 header ul li a:hover {
-	background-color: #ef8354;
+	background-color: #7FFF00;
 }
 
 
@@ -34,7 +35,7 @@ main {
 }
 
 footer {
-	background-color: #303030;
+	background-color: 	#000000;
 	color: #fff;
 	padding: 10px;
 }
